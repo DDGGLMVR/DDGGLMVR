@@ -7,6 +7,8 @@ JAVA / SPRING / MYSQL / REACT / CSS / HTML
   <img align="center" alt="Dann-Js" height="30" width="40" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
   <img align="center" alt="dann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="dann-CSS" height="30" width="40" src="https://icon-library.com/images/java-icon-png/java-icon-png-8.jpg">
+  <img align="center" alt="dann-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
  
   
 </div>
