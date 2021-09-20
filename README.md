@@ -1,6 +1,13 @@
 # DDGGLMVR
 Repositório destinado ao desenvolvimento do projeto API proposto pela Fatec junto a IACIT ao 3o Semestre de Banco de Dados Noturno
 
+# CLIENTE
+ <img align="center" alt="Dann-Js" height="80" width="140" src="https://pqtec.org.br/wpfiles/wp-content/uploads/2020/12/meta-image.jpg">
+
+
+# MISSÃO:  
+Criar um Sistema Web onde será executada uma cerimônia SCRUM para votação de equipe 
+
 # TECNOLOGIAS UTILIZADAS
 JAVA / SPRING / MYSQL / REACT / CSS / HTML
 <div style="display: inline_block"><br>
