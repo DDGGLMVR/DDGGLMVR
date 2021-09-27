@@ -26,7 +26,6 @@ PO - [Marcelo Ricardo Fernandes](https://github.com/MarceloRicardoFernandes);
 SM - [Rafael Trevizoli](https://github.com/rtrevizoli).  
 
 ## Integrantes
-- [Danillo Fernandes da Costa](https://github.com/Geolioon);  
 - [Danilo Vasconcelos](https://github.com/dannslima);  
 - [Guilherme Agostin](https://github.com/GuilhermeAgostin);  
 - [Gustavo Castro](https://github.com/gustavocastrow);  
