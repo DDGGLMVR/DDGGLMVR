@@ -37,7 +37,7 @@ Repositório:    [DDGGLMVR/DDGGLMVR](https://github.com/DDGGLMVR/DDGGLMVR).
 Check | Data          | Momento
 ----- | ------------- | ---------------------
 [X]   | 16/08 a 22/08 | Kick-off do Projeto;
-[ ]   | 30/08 a 19/09 | Sprint 1;
+[X]   | 30/08 a 19/09 | Sprint 1;
 [ ]   | 20/09 a 10/10 | Sprint 2;
 [ ]   | 11/10 a 17/10 | Recesso;
 [ ]   | 18/10 a 07/11 | Sprint 3;
