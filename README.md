@@ -16,8 +16,6 @@ JAVA / SPRING / MYSQL / REACT / CSS / HTML
   <img align="center" alt="dann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dann-CSS" height="30" width="40" src="https://icon-library.com/images/java-icon-png/java-icon-png-8.jpg">
   <img align="center" alt="dann-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
- 
-  
 </div>
 
 
@@ -55,7 +53,7 @@ Check | Data          | Momento
 ## Model
 [scrum-poker-planning by Hazem Ben Khalfallah](https://github.com/Hazem-Ben-Khalfallah/scrum-poker-planning).
 
-## Databe Docker Image
+## Databese Docker Image
 Download and install Docker to start Database
 ```bash
 docker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql:8.0.23
