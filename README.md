@@ -53,7 +53,7 @@ Check | Data          | Momento
 ## Model
 [scrum-poker-planning by Hazem Ben Khalfallah](https://github.com/Hazem-Ben-Khalfallah/scrum-poker-planning).
 
-## Databese Docker Image
+## Database Docker Image
 Download and install Docker to start Database
 ```bash
 docker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql:8.0.23
