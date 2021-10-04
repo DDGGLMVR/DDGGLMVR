@@ -58,4 +58,4 @@ In the project root folder, run these commands below.
 ```bash
 docker-compose up
 ```  
-`To run docker in backgroup use -d flag`
+`To run database using docker in background use -d flag`
