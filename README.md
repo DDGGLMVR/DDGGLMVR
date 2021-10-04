@@ -54,7 +54,8 @@ Check | Data          | Momento
 [scrum-poker-planning by Hazem Ben Khalfallah](https://github.com/Hazem-Ben-Khalfallah/scrum-poker-planning).
 
 ## Database Docker Image
-Download and install Docker to start Database
+In the project root folder, run these commands below.
 ```bash
-docker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql:8.0.23
-```
+docker-compose up
+```  
+`To run docker in backgroup use -d flag`
