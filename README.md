@@ -41,7 +41,7 @@ Repositório destinado ao desenvolvimento do projeto API proposto pela Fatec jun
 
  DEV: Danilo Vasconcelos
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com/in/danilo-lima-029bb8142/)
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/dannslima) 
 
  DEV: Lucas Rodrigues
@@ -51,7 +51,7 @@ Repositório destinado ao desenvolvimento do projeto API proposto pela Fatec jun
 
  DEV: Guilherme Agostin
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com/in/guilherme-agostin-90ba6169/)
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/GuilhermeAgostin) 
 
 ---
