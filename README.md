@@ -1,61 +1,85 @@
-# DDGGLMVR
+# :books: API 3° Semestre - Banco de Dados: "IACIT"
 Repositório destinado ao desenvolvimento do projeto API proposto pela Fatec junto a IACIT ao 3o Semestre de Banco de Dados Noturno
 
-# CLIENTE
- <img align="center" alt="Dann-Js" height="80" width="140" src="https://pqtec.org.br/wpfiles/wp-content/uploads/2020/12/meta-image.jpg">
+---
+### :loudspeaker: Requisitos do projeto:
 
 
-# MISSÃO:  
-Criar um Sistema Web onde será executada uma cerimônia SCRUM para votação de equipe 
+---
+### :hammer_and_wrench: Tecnologias
 
-# TECNOLOGIAS UTILIZADAS
-JAVA / SPRING / MYSQL / REACT / CSS / HTML
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dann-Js" height="30" width="40" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
-  <img align="center" alt="dann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dann-CSS" height="30" width="40" src="https://icon-library.com/images/java-icon-png/java-icon-png-8.jpg">
-  <img align="center" alt="dann-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
-</div>
+ ● Java  
 
+ ● Spring
 
-## Estrutura
-PO - [Marcelo Ricardo Fernandes](https://github.com/MarceloRicardoFernandes);  
-SM - [Rafael Trevizoli](https://github.com/rtrevizoli).  
+ ● ReactJS  
 
-## Integrantes
-- [Danilo Vasconcelos](https://github.com/dannslima);  
-- [Guilherme Agostin](https://github.com/GuilhermeAgostin);  
-- [Gustavo Castro](https://github.com/gustavocastrow);  
-- [Lucas Rodrigues](https://github.com/LucasMonteiiroo).  
+ ● HTML  
 
-## GitHub
-Organization:   [DDGGLMVR](https://github.com/DDGGLMVR/);  
-Repositório:    [DDGGLMVR/DDGGLMVR](https://github.com/DDGGLMVR/DDGGLMVR).  
+ ● CSS  
 
-## Calendário e Entregas 
-Check | Data          | Momento
------ | ------------- | ---------------------
-[X]   | 16/08 a 22/08 | Kick-off do Projeto;
-[X]   | 30/08 a 19/09 | Sprint 1;
-[ ]   | 20/09 a 10/10 | Sprint 2;
-[ ]   | 11/10 a 17/10 | Recesso;
-[ ]   | 18/10 a 07/11 | Sprint 3;
-[ ]   | 08/11 a 28/11 | Sprint 4;
-[ ]   | 29/11 a 05/12 | Apresentação Final;
-[ ]   | 16/12 às 19h  | Feira de Soluções.
+ ● MySQL
 
-## Refs
-[Scrum](https://www.voitto.com.br/blog/artigo/scrum);  
-[Planning Poker](https://www.voitto.com.br/blog/artigov2/planning-poker);  
-[Git Branches](https://medium.com/@luizcarvalho/modelo-de-ger%C3%AAncia-de-branchs-de-sucesso-para-git-54955f876c7).  
+---
 
-## Model
-[scrum-poker-planning by Hazem Ben Khalfallah](https://github.com/Hazem-Ben-Khalfallah/scrum-poker-planning).
+### :man_technologist: Squad
 
-## Database Docker Image
-In the project root folder, run these commands below.
-```bash
-docker-compose up
-```  
-`To run database using docker in background use -d flag`
+ PO: Marcelo Ricardo Fernandes
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/MarceloRicardoFernandes) 
+
+ SM: Rafael Trevizoli
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/rtrevizoli) 
+
+ DEV: Gustavo de Castro Costa Silva
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com/in/gustavocastrow/)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/gustavocastrow) 
+
+ DEV: Danilo Vasconcelos
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/dannslima) 
+
+ DEV: Lucas Rodrigues
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/LucasMonteiiroo) 
+
+ DEV: Guilherme Agostin
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1c1c1c" />](https://www.linkedin.com)
+[<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=1c1c1c"/>](https://github.com/GuilhermeAgostin) 
+
+---
+
+### :spiral_calendar: Calendário e Entregas
+
+| Eventos         | Início   | Fim      | Status |
+|-----------------|----------|----------|--------|
+| **Kick off**    | 16/08 |     22/08     |   ✔️   |
+| **Sprint 01**   | 30/08 | 19/09 |   ✔️   |
+| **Sprint 02**   | 20/09 | 10/10 |   ✔️   |
+| **Sprint 03**   | 18/10 | 07/11 |   :gear:   |
+| **Sprint 04**   | 08/11 | 28/11 |   :gear:   |
+| **Apresentação final** | 29/11 | 05/12 |   :gear:   |
+
+---
+
+### :building_construction: Sprints
+
+- [x] [Sprint 01](https://github.com) ✔️
+ <br><br>
+- [ ] [Sprint 02](https://github.com) ✔️
+ <br><br>
+- [ ] [Sprint 03](https://github.com) :gear:
+ <br><br>
+- [ ] [Sprint 04](https://github.com) :gear:
+ <br><br>
+
+---
+
+### 📋 Product Backlog
