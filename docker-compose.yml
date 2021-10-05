@@ -1,0 +1,18 @@
+version: '3.0'
+
+services:
+ mysql:
+  image: mysql:8.0.23
+  container_name: mysqlTest
+  environment:
+   MYSQL_ROOT_PASSWORD: "root"
+  ports:
+   - "3306:3306"
+  volumes:
+   - /tmp/data/renegados:/data/db
+  networks:
+   - mysql-compose-network
+
+networks:
+ mysql-compose-network:
+  driver: bridge
