@@ -1,8 +1,24 @@
 # :books: API 3° Semestre - Banco de Dados: "IACIT"
-Repositório destinado ao desenvolvimento do projeto API proposto pela Fatec junto a IACIT ao 3o Semestre de Banco de Dados Noturno
+---
+### :ballot_box: Sobre o projeto
+  <p>O projeto consiste no desenvolvimento de uma aplicação que permita a realização das cerimônias do Scrum. 
+  As cerimônias para este projeto serão:</p>
+       <p>Planning </p>
+       <p>Retrospective </p>
+       
+       
+   <p>Este sistema pode permitir que pessoas cadastradas utilizem o sistema, montando equipes e
+   armazenando os dados históricos referente às estimativas do Planning e das cerimônias de
+   Retrospectivas.</p>
 
 ---
-### :loudspeaker: Requisitos do projeto:
+### :loudspeaker: Requisitos do projeto
+
+<p> O arquivo oficial fornecido pelo cliente (IACIT) com os requisitos você pode encontrar clicando no link abaixo </p>
+
+
+
+ <b>:arrow_right: [Requisitos do Projeto](https://smallpdf.com/result#r=60388404db42d04d93a78013922e4f1a&t=share-document)</b>
 
 
 ---
